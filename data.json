@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "63574a2908ab801c9eec5f47",
+    "index": 0,
+    "guid": "3f69613c-80a2-4d0e-8dd5-72008646a35f",
+    "picture": "https://fireship.io/courses/react-next-firebase/img/featured.webp",
+    "name": "Next.js Firebase Full Course",
+    "about": "Next.js Firebase - The Full Course takes you from zero to a production-ready hybrid-rendered webapp. Learn how to build a high-performance React app that features realtime data from Firebase and multiple server-side rendering paradigms with Next.js",
+    "latitude": -51.430622,
+    "longitude": -43.885465,
+    "tags": ["React", "Next Js"],
+    "review": 4.917
+  },
+  {
+    "_id": "63574a29a649541c8a245b1c",
+    "index": 1,
+    "guid": "040b4ff0-0270-4ad3-bb3b-6d805953b6fc",
+    "picture": "https://fireship.io/courses/flutter-firebase/img/featured.webp",
+    "name": "Flutter Firebase",
+    "about": "Flutter Firebase - The Full Course will take you from zero to a complex production-ready iOS or Android app using real-world cloud infrastructure.This is a project-based course that will teach you how to build a multiple choice quiz app, inspired by apps like Duolingo and QuizUp. The app implements user authentication (Sign in with Google or Apple), tracks quiz progress in Firestore, uses dynamic animations, and shares data between screens.",
+    "latitude": 27.092143,
+    "longitude": -145.684795,
+    "tags": ["flutter", "firebase"],
+    "review": 3.9562
+  },
+  {
+    "_id": "63574a29e3cd660d555c59b3",
+    "index": 2,
+    "guid": "11b6ee4b-3535-441d-a890-b96216e51c83",
+    "picture": "https://fireship.io/courses/dart/img/featured.webp",
+    "name": "Dart 101",
+    "about": "Dart - The Full Course is designed to teach you the fundamentals of the Dart language to prepare you for a successful journey into Flutter.This course provides a tour of Dart and teaches essential concepts for Flutter developers.",
+    "latitude": 8.970617,
+    "longitude": 125.821804,
+    "tags": ["Dart"],
+    "review": 4.4181
+  },
+  {
+    "_id": "63574a29c75e5540b4153008",
+    "index": 3,
+    "guid": "815753ce-ac8c-428b-9245-33adf3fdec06",
+    "picture": "https://fireship.io/courses/git/img/featured.webp",
+    "name": "Git & GitHub Full Course",
+    "about": "The Git & GitHub Full Course teaches you how to use Git and GitHub to manage your code like a professional software engineer. Take a hands on approach to learn the basics of version control from the command line with around 1 hour of video content and exercises.",
+    "latitude": 17.81749,
+    "longitude": -173.742231,
+    "tags": ["git", "github"],
+    "review": 3.2116
+  },
+  {
+    "_id": "63574a291f1bde2d01b25faf",
+    "index": 4,
+    "guid": "cf77c61d-8c5e-4d22-ad31-8f2abf9d2c43",
+    "picture": "https://fireship.io/courses/react/img/featured.webp",
+    "name": "React - The full course",
+    "about": "React - The Full Course is unlike any other React course on the Internet. It provides a fast-paced introduction to essential concepts, then puts them into practice by building multiple fun and challenging full-stack apps from scratch.",
+    "latitude": -12.040464,
+    "longitude": 70.513731,
+    "tags": ["React", "JavaScript", "Typescript"],
+    "review": 4.1948
+  },
+  {
+    "_id": "63574a291f1bede2d01b25faf",
+    "index": 4,
+    "guid": "cf77c61d-8c5e-4d22-ad31-8f2abf9d2sc43",
+    "picture": "https://fireship.io/courses/vscode-tricks/img/featured.webp",
+    "name": "VS Code Magic Tricks Course",
+    "about": "The VS Code Magic Tricks course will teach you how to write code faster and make you a happier developer. It demonstrates dozens of small optimizations that result in long-term productivity gains as a programmer.",
+    "latitude": -12.040464,
+    "longitude": 70.513731,
+    "tags": ["JavaScript", "VScode"],
+    "review": 4.1948
+  },
+  {
+    "_id": "63574a291f1bedf2d01b25faf",
+    "index": 4,
+    "guid": "cf77c61d-8c5e-4d22-ad31-8f2abf9ad2c43",
+    "picture": "https://fireship.io/courses/stripe-js/img/featured.webp",
+    "name": "Stripe Payments JavaScript Course",
+    "about": "The Stripe Payments JavaScript Course is a project-based guide to building fullstack payment solutions on the web with Node.js and React.The goal is to provide a solid foundation for app monetization 💸 by implementing common use-cases with Stripe APIs including Checkout, Payment Intents, and Billing.",
+    "latitude": -12.040464,
+    "longitude": 70.513731,
+    "tags": ["JavaScript", "VScode"],
+    "review": 4.1948
+  },
+  {
+    "_id": "63574a291f1bedh2d01b25faf",
+    "index": 4,
+    "guid": "cf77c61d-8c5e-4d22-ad31-8f2gabf9d2c43",
+    "picture": "https://fireship.io/courses/firebase-security/img/featured.webp",
+    "name": "Firebase Security Course",
+    "about": "Firebase Security - The Full Course will teach you how to write, organize, and test Firestore security rules. The goal is to prepare developers for the safe and secure launch of a Firebase project.",
+    "latitude": -12.040464,
+    "longitude": 70.513731,
+    "tags": ["JavaScript", "VScode"],
+    "review": 4.1948
+  }
+]
