@@ -5,6 +5,7 @@ const cors = require("cors");
 
 app.use(cors());
 
+//environmental variable port
 const port = process.env.PORT || 4000;
 
 app.get("/", (req, res) => {
