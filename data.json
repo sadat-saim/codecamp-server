@@ -9,7 +9,8 @@
     "latitude": -51.430622,
     "longitude": -43.885465,
     "tags": ["React", "Next Js"],
-    "review": 4.917
+    "review": 4.917,
+    "price": 15
   },
   {
     "_id": "63574a29a649541c8a245b1c",
@@ -21,7 +22,8 @@
     "latitude": 27.092143,
     "longitude": -145.684795,
     "tags": ["flutter", "firebase"],
-    "review": 3.9562
+    "review": 3.9562,
+    "price": 5
   },
   {
     "_id": "63574a29e3cd660d555c59b3",
@@ -33,7 +35,8 @@
     "latitude": 8.970617,
     "longitude": 125.821804,
     "tags": ["Dart"],
-    "review": 4.4181
+    "review": 4.4181,
+    "price": 12
   },
   {
     "_id": "63574a29c75e5540b4153008",
@@ -45,7 +48,8 @@
     "latitude": 17.81749,
     "longitude": -173.742231,
     "tags": ["git", "github"],
-    "review": 3.2116
+    "review": 3.2116,
+    "price": 10
   },
   {
     "_id": "63574a291f1bde2d01b25faf",
@@ -57,7 +61,8 @@
     "latitude": -12.040464,
     "longitude": 70.513731,
     "tags": ["React", "JavaScript", "Typescript"],
-    "review": 4.1948
+    "review": 4.1948,
+    "price": 12
   },
   {
     "_id": "63574a291f1bede2d01b25faf",
@@ -69,7 +74,8 @@
     "latitude": -12.040464,
     "longitude": 70.513731,
     "tags": ["JavaScript", "VScode"],
-    "review": 4.1948
+    "review": 4.1948,
+    "price": 8
   },
   {
     "_id": "63574a291f1bedf2d01b25faf",
@@ -81,7 +87,8 @@
     "latitude": -12.040464,
     "longitude": 70.513731,
     "tags": ["JavaScript", "VScode"],
-    "review": 4.1948
+    "review": 4.1948,
+    "price": 10
   },
   {
     "_id": "63574a291f1bedh2d01b25faf",
@@ -93,6 +100,7 @@
     "latitude": -12.040464,
     "longitude": 70.513731,
     "tags": ["JavaScript", "VScode"],
-    "review": 4.1948
+    "review": 4.1948,
+    "price": 7
   }
 ]
